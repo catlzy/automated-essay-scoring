@@ -1,0 +1,38 @@
+['unique_valid_word_count']
+0.609828964407726
+['unique_valid_word_count', 'noun_adj_adv_count']
+0.6125999072025637
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count']
+0.6176595675289589
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count']
+0.6303229009261918
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency']
+0.6345236424911879
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency', 'punctuation_count']
+0.6450355946388809
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency', 'punctuation_count', '4gram_frequency']
+0.6591533816648806
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency', 'punctuation_count', '4gram_frequency', 'sentence_num']
+0.6619694443682027
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency', 'punctuation_count', '4gram_frequency', 'sentence_num', '3gram_frequency']
+0.6651766942345324
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency', 'punctuation_count', '4gram_frequency', 'sentence_num', '3gram_frequency', '2gram_frequency']
+0.666754175471543
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency', 'punctuation_count', '4gram_frequency', 'sentence_num', '3gram_frequency', '2gram_frequency', '1gram_frequency']
+0.6673184000784587
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency', 'punctuation_count', '4gram_frequency', 'sentence_num', '3gram_frequency', '2gram_frequency', '1gram_frequency', 'average_word_length']
+0.6714296942898123
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency', 'punctuation_count', '4gram_frequency', 'sentence_num', '3gram_frequency', '2gram_frequency', '1gram_frequency', 'average_word_length', 'sentence_len']
+0.672261319757432
+['unique_valid_word_count', 'noun_adj_adv_count', 'long_word_count', 'word_count', '5gram_frequency', 'punctuation_count', '4gram_frequency', 'sentence_num', '3gram_frequency', '2gram_frequency', '1gram_frequency', 'average_word_length', 'sentence_len', 'unique_valid_word_prop']
+0.6765229527202853
+
+0.764513129048964
+0.6897088588711652
+0.5007357393669818
+0.6088663401502472
+0.6881197947425389
+0.6100022969210948
+0.7115632498755655
+0.7270423899713764
+0.6625689748684916
