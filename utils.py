@@ -386,7 +386,7 @@ if __name__=='__main__':
         feature_data = pickle.load(f)
 
     # create plots
-    # plot_feature_data(feature_data)
+    plot_feature_data(feature_data)
 
     # get sorted feature titles in most significant order
     sorted_feature = feature_testing(feature_data)
