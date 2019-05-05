@@ -327,7 +327,6 @@ def feature_selection(sorted_feature, feature_data):
 
 def produce_model(selected, sorted_feature, feature_data):
     features = []
-    temp = ['7gram_frequency', '8gram_frequency', '9gram_frequency', '10gram_frequency']
     scores = feature_data['score']
     lm = linear_model.LinearRegression()
     for title in sorted_feature.keys():
@@ -378,7 +377,7 @@ def linear_reg(selected, sorted_feature, feature_data):
 if __name__=='__main__':
     train = get_info()
 
-    # produce feature_data dictionary, only need for the first run
+    # produce feature_data dictionary and fdist folder for web app, only need for the first run
     # feature_data(train)
 
     # open saved feature_data dict
