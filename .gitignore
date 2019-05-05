@@ -1,5 +1,5 @@
 asap-aes/
 images/
-fdist/
+__pycache__/
 linreg_models/
 *.pptx
